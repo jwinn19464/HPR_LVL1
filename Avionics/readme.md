@@ -1,3 +1,5 @@
+
+
 # Avionics:
 
 - At the heart of each rocket is a flight computer. It is responsible for ejecting the parachute, sensing the trajectory, apogee altitude and all sorts of things.
